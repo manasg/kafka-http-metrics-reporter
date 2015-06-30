@@ -126,7 +126,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kafka.version>0.8.0</kafka.version>
+        <kafka.version>0.8.2.1</kafka.version>
         <log4j.version>1.2.15</log4j.version>
         <slf4j.version>1.6.4</slf4j.version>
         <snappy-java.version>1.0.4.1</snappy-java.version>

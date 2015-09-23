@@ -22,9 +22,9 @@ import kafka.metrics.KafkaMetricsReporterMBean;
 
 /**
  * Interface: KafkaHttpMetricsReporterMBean
- * <p/>
+ * <p>
  * Author: arnobroekhof
- * <p/>
+ * <p>
  * Purpose: Extending the KafkaMetricsReporterMBean
  */
 public interface KafkaHttpMetricsReporterMBean extends

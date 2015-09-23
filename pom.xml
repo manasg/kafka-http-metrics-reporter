@@ -123,7 +123,7 @@
         <snappy-java.version>1.0.4.1</snappy-java.version>
         <metrics-core.version>2.2.0</metrics-core.version>
         <zkclient.version>0.3</zkclient.version>
-        <zookeeper.version>3.3.4</zookeeper.version>
+        <zookeeper.version>3.4.6</zookeeper.version>
         <jetty.version>8.1.4.v20120524</jetty.version>
         <junit.version>4.8.2</junit.version>
         <shaded.name>uber</shaded.name>

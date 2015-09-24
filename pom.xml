@@ -6,7 +6,7 @@
 
     <groupId>nl.techop.kafka</groupId>
     <artifactId>kafka-http-metrics-reporter</artifactId>
-    <version>1.0.0.${maven.build.timestamp}.github.com.manasg</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <licenses>
@@ -130,7 +130,7 @@
         <zookeeper.version>3.4.6</zookeeper.version>
         <jetty.version>8.1.4.v20120524</jetty.version>
         <junit.version>4.8.2</junit.version>
-        <shaded.name>uber</shaded.name>
+        <shaded.name>${maven.build.timestamp}.manasg-uber</shaded.name>
     </properties>
 
     <build>
